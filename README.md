@@ -12,7 +12,7 @@
 - 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://gurusharan-gs.github.io/)
-- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/www.linkedin.com/in/gurusharanu/)
+- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/gurusharanu/)
 -  📄 This is [My Resume]()
 - 📫 How to reach me: ...*gurusharanulagadde143@gmail.com*
 
@@ -112,7 +112,7 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/gurusharanu/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/gurusharanu/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
 
 </p>
 
