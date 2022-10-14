@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/gurusharan-gs)  
 
 
-<div align ="center" ;width="100%"> <img width="97%"  src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif"> </div>
+<div align ="center" ;width="100%"> <img width="97%"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif"> </div>
 
 
 
