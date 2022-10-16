@@ -13,7 +13,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://gurusharan-gs.github.io/)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/gurusharanu/)
--  📄 This is [My Resume]()
+-  📄 This is [My Resume](https://drive.google.com/file/d/1BU4_oQltJhq0Mnli6FQHCJWp-OijDbWd/view?usp=sharing)
 - 📫 How to reach me: ...*gurusharanulagadde143@gmail.com*
 
 
