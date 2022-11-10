@@ -55,14 +55,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
-
-
-<!-- <img align="right"  src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200.gif"> -->
-
-
-<!--   <summary><b style ="text-align :center">⚡ Recent GitHub Activity</b></summary> -->
-<!--   <br/> -->
    <a href="https://github.com/gurusharan-gs"><img alt="Gurusharan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurusharan-gs&custom_title=Gurusharan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
@@ -82,39 +74,25 @@
 
 
  <h2> 📊 Github Stats ....</h2>
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gurusharan-gs&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurusharan-gs&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gurusharan-gs&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gurusharan-gs&theme=solarized_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gurusharan-gs&theme=solarized_dark&utcOffset=8">
-	
-</p>
+
+
+<div>
+
+ 
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=gurusharan-gs&theme=tokyonight&border_radius=10" alt="Suraj" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gurusharan-gs&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusharan-gs&theme=tokyonight" alt="Samruddhi" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=gurusharan-gs&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
+<div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
-
-
-
-## 📊 My Github Stats
-
-<p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=gurusharan-gs&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=gurusharan-gs&theme=algolia" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## Connect with me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gurusharanu/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
