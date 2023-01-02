@@ -56,7 +56,7 @@
 
 <div>
 
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=gurusharan-gs&theme=tokyonight&border_radius=10" alt="Suraj" height="250px" width="47%" />
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=gurusharan-gs&theme=tokyonight&border_radius=10" alt="gurusharan" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=gurusharan-gs&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
 <div>
   </br>
