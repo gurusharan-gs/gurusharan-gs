@@ -3,9 +3,9 @@
 
 <div align ="center" ;width="100%"> <img width="97%"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif"> </div>
 
-- 🔭 I’m currently working on Backend and Frontend technologies 😅
-- 👨‍💻 I’m currently learning Java, Spring, Hibernate, SQL, AWS at Masai School.
-- 💬 Ask me about Java, Spring, Hibernate, SQL, AWS
+- 🔭 I’m currently working on Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently learning HTML, CSS, Javascript, React, Redux, React-Router-Dom, Tailwind CSS, Java, Spring Boot, and Sql at Masai School.
+- 💬 Ask me about HTML, CSS, Javascript, React, Redux, React-Router-Dom, Tailwind CSS
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 👨‍💻 This is [My Portfolio](https://gurusharan-gs.github.io/)
 - 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/gurusharanu/)
