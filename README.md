@@ -1,6 +1,7 @@
+
 ![Profile views](https://gpvc.arturio.dev/gurusharan-gs)  
 
-
+# 💫 About Me:
 <div align ="center" ;width="100%"> <img width="97%"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/02/00086-desk-anim-v0.3.gif"> </div>
 
 - 🔭 I’m currently working on Frontend and Backend technologies 😅
@@ -12,8 +13,12 @@
 -  📄 This is [My Resume](https://drive.google.com/file/d/1BcsB9x8EB6cj0JxilVBpcLYCSBiwxBAI/view?usp=sharing)
 - 📫 How to reach me: ...*gurusharanulagadde143@gmail.com*
 
-<br>
-<br>
+
+<be>
+<be>
+
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GurusharanUlag1)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/gurusharanu)/in/ezSnippet)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Gurusharan!;Learning+Full+Stack+Web+Development...👨🏻‍💻;Learning+Java+Backend+Development...👨🏻‍💻;Learning+Data+Structures+&+Algorithms...👨🏻‍💻;" style="width: 100%;">
@@ -22,7 +27,7 @@
 <br>
 <! -----------------Tech Stack Section--------------------- >
 
- <h3><i>Tech Stacks I have worked with :</i></h3>
+ # 💻 Tech Stacks:
 
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -68,7 +73,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- <h2> 📊 Github Stats ....</h2>
+# 📊 GitHub Stats:
 
 <div>
 
