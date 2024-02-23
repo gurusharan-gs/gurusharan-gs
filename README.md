@@ -17,10 +17,12 @@
 <be>
 <be>
 
-## 🌐 Socials:
+<br>
+
+# 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GurusharanUlag1)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/gurusharanu)/in/ezSnippet)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Gurusharan!;Learning+Full+Stack+Web+Development...👨🏻‍💻;Learning+Java+Backend+Development...👨🏻‍💻;Learning+Data+Structures+&+Algorithms...👨🏻‍💻;" style="width: 100%;">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
